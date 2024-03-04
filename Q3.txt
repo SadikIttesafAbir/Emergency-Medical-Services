@@ -1,0 +1,27 @@
+1.Briefly describe why different testing strategy required for different phases of software development life cycle.
+
+Ans: 1.Testing strategy: Testing is one of the most critical processes of the Software Development Life Cycle(SDLC). It helps companies to perform a comprehensive assessment of software and ensure that their product fulfills the clients needs.
+
+The testing phases of the software development lifecycle help companies to identify all the bugs and errors in the software before the implementation phase begins. If software bugs are not resolved before deployment, they can adversely affect the client's business.
+
+Besides that, trying to resolve these issues at a later stage can incur substantial costs. The more you delay the detection of these issues, the gerater the cost you likely to face.
+
+
+
+There are several ways to perform testing in the software development lifecycle. The techniques used for testing can vary depending on the software development model, the stage of the process, and the obectives of the testing procedure.
+
+Testing Phases in SDLC:
+
+The SDLC is a continuous process, and thus, consists of several phases, Each of these phases is critical for meeting the requirements of clients and achieving the goals of the projects. The following are some of the integral phaes of the Software Development Life Cycle.
+
+Requirement Analysis and Planning:
+
+Project planning and requirements are the most fundamental phases of the SDLC. Without understanding the intial requirements, no software team can develop a solution that gives value to clients.
+
+Usally, the senior members in a projects team are responsible for carring out requirements analysis. The team constantly takes input from the client during this procedure. They also have to consider the feedback of the sales department, and consult experts in the industry along with market surveys.
+
+After carrying out in-depth research about the client's requirements, the management uses this information to determine the approach they will take for the project. The team needs to conduct a feasibility study and determine wheter or not the project is feasible, both economically and operationally. Besides that, the team needs to see if the current team has the technical capability to carry out the given task.
+
+At this stage, the team also need to plan the scope for quality assurance and perform risk evaluation of the project. At the end of this phase, the team has to define the technical approach they will take to implement the project successfully.
+
+Validating Requirements, Desiging the product Architecture, Software Development Phase
